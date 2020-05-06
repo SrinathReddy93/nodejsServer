@@ -3,6 +3,7 @@ A simple nodejs server without any framework
 
 # Usage
 1.clone the repo
+
 2.run the node app.js
 
 # About
